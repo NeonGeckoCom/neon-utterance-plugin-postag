@@ -15,6 +15,8 @@ print(context)
 #                            ('temível', 'NOUN')]]}}
 
 # you can enable new tagsets or override models in .conf
+# model_id from https://github.com/NeonJarbas/modelhub
+# or full path to local file
 tagger.load_models({
     "en": {
         "treebank": "nltk_treebank_perceptron_tagger",  # extra tagsets can be added in .conf

@@ -1,3 +1,3 @@
 neon_transformers
-JarbasModelZoo
+neon_modelhub
 nltk
